@@ -172,4 +172,6 @@ public class MainActivity extends AppCompatActivity {
     public String returnName(){
         return "Amber was here";
     }
+    
+    // This is a comment to test the git pull process from android studi
 }
