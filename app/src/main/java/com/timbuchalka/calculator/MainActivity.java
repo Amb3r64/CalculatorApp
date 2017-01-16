@@ -173,5 +173,7 @@ public class MainActivity extends AppCompatActivity {
         return "Amber was here";
     }
     
-    // This is a comment to test the git pull process from android studi
+    // This is a comment to test the git pull process from android studio
+    
+    // Another day, another comment
 }
